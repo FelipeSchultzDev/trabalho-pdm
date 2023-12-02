@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800483594728",
+    "project_id": "zap-zap-96539",
+    "storage_bucket": "zap-zap-96539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800483594728:android:4d9ded6d714809c088545d",
+        "android_client_info": {
+          "package_name": "com.example.projeto_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy_bRVpvYuLHduIEmlOYfNw-Xyr4IVsDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
